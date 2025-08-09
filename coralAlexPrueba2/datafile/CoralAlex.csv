@@ -1,0 +1,142 @@
+Texto: rotor
+r        r
+  o    o
+    t
+palindromo
+
+Texto: radar
+r        r
+  a    a
+    d
+palindromo
+
+Texto: ramomar
+r            r
+  a        a
+    m    m
+      o
+palindromo
+
+Texto: oso
+o    o
+  s
+palindromo
+
+Texto: 1331
+1      1
+  3  3
+palindromo
+
+Texto: 11111
+1        1
+  1    1
+    1
+palindromo
+
+Texto: 654897456
+6                6
+  5            5
+    4        4
+      8    7
+no es palindromo
+
+Texto: 12321
+1        1
+  2    2
+    3
+palindromo
+
+Texto: osa
+o    a
+no es palindromo
+
+Texto: reconocer
+r                r
+  e            e
+    c        c
+      o    o
+        n
+palindromo
+
+Texto: menem
+m        m
+  e    e
+    n
+palindromo
+
+Texto: somos
+s        s
+  o    o
+    m
+palindromo
+
+Texto: somas
+s        s
+  o    a
+no es palindromo
+
+Texto: 654897456
+6                6
+  5            5
+    4        4
+      8    7
+no es palindromo
+
+Texto: 12321
+1        1
+  2    2
+    3
+palindromo
+
+Texto: 1331
+1      1
+  3  3
+palindromo
+
+Texto: 2222222
+2            2
+  2        2
+    2    2
+      2
+palindromo
+
+Texto: rotor
+r        r
+  o    o
+    t
+palindromo
+
+Texto: radar
+r        r
+  a    a
+    d
+palindromo
+
+Texto: ramomar
+r            r
+  a        a
+    m    m
+      o
+palindromo
+
+Texto: 654897
+6          7
+no es palindromo
+
+Texto: 12321
+1        1
+  2    2
+    3
+palindromo
+
+Texto: 1331
+1      1
+  3  3
+palindromo
+
+Texto: 11111
+1        1
+  1    1
+    1
+palindromo
+
