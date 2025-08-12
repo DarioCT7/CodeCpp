@@ -60,7 +60,7 @@ void showCienPie( const CienPie &cienpie)
 
 void crearCienPie(TCienPie &p, const string nombre)
 {
-    TCienPie auxCienpie = new CienPie{"     /\\ \n  (8)", " /\\"};
+    TCienPie auxCienpie = new CienPie{"     /\\ \n  (5)", " /\\"};
     for(auto &&i: nombre) 
         addTronco(auxCienpie->tronco, string(1,i));
     //showCienPie(*auxCienpie);
