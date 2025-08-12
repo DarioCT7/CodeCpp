@@ -198,6 +198,7 @@ string coAlLeerDatosDesdeCSV(TCienPie &p, const string &filename) {
     while (getline(archivo, linea)) { // Bucle para leer cada línea
         stringstream ss(linea);
         string item;
+
         getline(ss, item, ',');
         getline(ss, item, ',');
         string nombreCompleto = "";
